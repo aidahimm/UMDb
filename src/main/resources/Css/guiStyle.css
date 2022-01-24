@@ -1,0 +1,27 @@
+.sidePane{
+    -fx-background-color: #F9F9F9;
+}
+
+.mainPane{
+    -fx-background-color: #F2F2F2;
+}
+
+.homePanes{
+    -fx-background-color: #fcfcfc;
+    -fx-background-radius: 10px;
+}
+
+.notificationPane{
+    -fx-background-color: #fcfcfc;
+    -fx-background-radius: 50px;
+}
+
+.userActivityPane{
+    -fx-background-color: #fcfcfc;
+    -fx-background-radius: 10px;
+}
+
+.latestReviewPane{
+    -fx-background-color: #fff8d1;
+    -fx-background-radius: 10px;
+}
